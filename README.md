@@ -2,6 +2,7 @@
 Wirelessly send data from an app on your phone to your PC. All in python using kivy.
 
 INSTRUCTIONS
+Client (phone) and server (computer) must be on the same internet network.
 
 ----------- MAIN.py (CLIENT CODE INSTRUCTIONS) -------------
 main.py is the client code. This should be running on your phone. It currently assumes you have an iPhone and grabs the data from your phone's built in gyroscope - you can delete those lines if you have an Android or want to send other data.
